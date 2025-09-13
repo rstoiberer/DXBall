@@ -8,6 +8,10 @@ TagManager:
   - ball
   - brick
   - SideWall
+  - ceiling
+  - sideWall
+  - floor
+  - logic
   layers:
   - Default
   - TransparentFX
